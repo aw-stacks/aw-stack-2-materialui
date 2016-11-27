@@ -1,4 +1,5 @@
 import "../../node_modules/material-design-lite/dist/material.min.css";
+import "material-design-lite";
 
 import { NgModule } from "@angular/core";
 import { BrowserModule } from "@angular/platform-browser";
